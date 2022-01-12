@@ -17,59 +17,59 @@ const charaterl = [
     },
     {
         id: 3,
-        image: "./images/characters/character-3.png",
+        image: "images/characters/character-3.png",
         Name: "leslie alexander",
         Friends: "23 friends"
     }, {
         id: 4,
-        image: "./images/characters/character-4.png",
+        image: "images/characters/character-4.png",
         Name: "kristin waston",
         Friends: "23 friends"
     },
     {
         id: 5,
-        image: "./images/characters/character-5.png",
+        image: "images/characters/character-5.png",
         Name: "jenny wilson",
         Friends: "23 friends"
     },
     {
         id: 6,
-        image: "./images/characters/character-6.png",
+        image: "images/characters/character-6.png",
         Name: "marvin mckinney",
         Friends: "23 friends"
     },
     {
         id: 7,
-        image: "./images/characters/character-2.png",
+        image: "images/characters/character-2.png",
         Name: "jerome bell",
         Friends: "23 friends"
     },
     {
         id: 8,
-        image: "./images/characters/character-8.png",
+        image: "images/characters/character-8.png",
         Name: "guy hawkins",
         Friends: "23 friends"
     },
     {
         id: 9,
-        image: "./images/characters/character-9.png",
+        image: "images/characters/character-9.png",
         Name: "robert fox",
         Friends: "23 friends"
     }, {
         id: 7,
-        image: "./images/characters/character-3.png",
+        image: "images/characters/character-3.png",
         Name: "jerome bell",
         Friends: "23 friends"
     },
     {
         id: 8,
-        image: "./images/characters/character-1.png",
+        image: "images/characters/character-1.png",
         Name: "guy hawkins",
         Friends: "23 friends"
     },
     {
         id: 9,
-        image: "./images/characters/character-6.png",
+        image: "images/characters/character-6.png",
         Name: "robert fox",
         Friends: "23 friends"
     }

@@ -6,63 +6,63 @@ import { Link } from 'react-router-dom'
 const Planets = [
     {
         id: 1,
-        image: ' ./images/planets/planet-1.svg',
+        image: ' images/planets/planet-1.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     },
     {
         id: 2,
-        image: ' ./images/planets/planet-2.svg',
+        image: ' images/planets/planet-2.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 3,
-        image: ' ./images/planets/planet-3.svg',
+        image: ' images/planets/planet-3.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 4,
-        image: ' ./images/planets/planet-4.svg',
+        image: ' images/planets/planet-4.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 5,
-        image: ' ./images/planets/planet-5.svg',
+        image: ' images/planets/planet-5.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 6,
-        image: ' ./images/planets/planet-6.svg',
+        image: ' images/planets/planet-6.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 7,
-        image: ' ./images/planets/planet-7.svg',
+        image: ' images/planets/planet-7.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 8,
-        image: ' ./images/planets/planet-8.svg',
+        image: ' images/planets/planet-8.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 9,
-        image: ' ./images/planets/planet-9.svg',
+        image: ' images/planets/planet-9.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 10,
-        image: ' ./images/planets/planet-4.svg',
+        image: ' images/planets/planet-4.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 11,
-        image: ' ./images/planets/planet-1.svg',
+        image: ' images/planets/planet-1.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }, {
         id: 12,
-        image: ' ./images/planets/planet-7.svg',
+        image: ' images/planets/planet-7.svg',
         planetName: ' planet alpha',
         pop: ' pop:235'
     }
